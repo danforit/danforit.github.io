@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://danforit.github.io/sitemap
+Sitemap: https://danforit.github.io/app/sitemap
+Sitemap: https://danforit.github.io/assets/sitemap
+Sitemap: https://danforit.github.io/css/sitemap
+Sitemap: https://danforit.github.io/includes/sitemap
+Sitemap: https://danforit.github.io/item/sitemap
+Sitemap: https://danforit.github.io/src/sitemap
